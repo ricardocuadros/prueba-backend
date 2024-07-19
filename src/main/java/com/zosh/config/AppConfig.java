@@ -33,7 +33,7 @@ public class AppConfig {
 				cfg.setAllowedOrigins(Arrays.asList(
 						"http://localhost:3000",
 						"http://localhost:4200",
-						"https://rcuadros-ecommerce.vercel.app"
+						"https://proyect-react-hzj940358-ricardocuadros-projects.vercel.app"
 						));
 				cfg.setAllowedMethods(Collections.singletonList("*"));
 				cfg.setAllowCredentials(true);
